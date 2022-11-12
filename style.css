@@ -1,0 +1,42 @@
+.titulo1{
+    background-color:burlywood;
+    color: brown;
+    font-family: cursive;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+}
+.titulo2{
+    background-color:burlywood;
+    color: brown;
+    font-family: cursive;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Kanit', sans-serif;
+}
+.titulo3{
+    color: black;
+    font-family: cursive;
+    font-size: 1rem;
+    font-family: 'Kanit', sans-serif;
+}
+.contenedor{
+    justify-content: center;
+    color:wheat;
+
+}
+.Titulo4{
+ color:brown;
+ background-color: white;
+ font-size: 1rem;
+ font-family: 'Kanit', sans-serif;
+
+}
+body{
+    background-image: url(https://www.gifsanimados.org/data/media/102/musica-imagen-animada-0517.gif);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+    
