@@ -39,4 +39,33 @@ body{
     background-repeat: no-repeat;
     background-position: right;
 }
+.table{
+    border-collapse: collapse;
+}
+.table td{
+    border:1px solid ;
+    text-align: center;
+}
+.table th{
+    background-color:chocolate;
+    color:black;
+}
+.table td:hover{
+    background-color:burlywood;
+    color:black;
+}
+.table tr{
+    background-color: bisque;
+    color: black;
+    font-family: 'Kanit', sans-serif;
+}
+caption{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+
+}
+.table th:hover{
+    background-color: chocolate;
+    color:white
+}
     
